@@ -1,0 +1,4 @@
+interface:
+  display_name: "Document to Markdown Structure"
+  short_description: "Convert documents to Markdown and outline logic"
+  default_prompt: "Use $document-to-md-structure 读取这个文件，转换为 Markdown，并输出文档概况与三级逻辑结构。"
